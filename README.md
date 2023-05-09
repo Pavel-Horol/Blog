@@ -1,2 +1,0 @@
-# Blog
- React, Express, MongoDB
